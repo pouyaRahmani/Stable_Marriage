@@ -7,7 +7,6 @@ This repository contains an implementation of the **Stable Marriage Problem** us
 - [Introduction](#introduction)
 - [Algorithm Overview](#algorithm-overview)
 - [How to Run](#how-to-run)
-- [Code Explanation](#code-explanation)
 - [Example](#code-overview)
 
 ## Introduction
@@ -53,5 +52,5 @@ To run the algorithm, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pouyarahmani/stable-marriage-problem.git
+   git clone https://github.com/pouyarahmani/stable-marriage-problem-js.git
    ```
